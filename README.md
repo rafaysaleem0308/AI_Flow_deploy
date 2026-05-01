@@ -6,7 +6,7 @@ A **Web-based Knowledge-Based Agent** that navigates a Wumpus World-style grid u
 
 ## 🌐 Live Demo
 
-> Deployed on Vercel: *(add your live URL here after deployment)*
+> Deployed on Vercel: https://ai-flow-deploy.vercel.app/
 
 ---
 
