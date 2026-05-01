@@ -1,0 +1,4 @@
+__pycache__/
+_review_temp/
+*.pyc
+.venv/
